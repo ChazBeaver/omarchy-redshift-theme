@@ -1,0 +1,22 @@
+[window]
+decorations = "none"
+opacity = 0.98 # Slight transparency for readability
+
+[colors.primary]
+background = "#10090B" # Void Black
+foreground = "#EDEDED" # Moonlit White
+
+[colors.normal]
+black   = "#120B0D"
+red     = "#BF1111"
+green   = "#BF1111"
+yellow  = "#BF1111"
+blue    = "#BF1111" # Sword Glow Red
+magenta = "#BF1111"
+cyan    = "#BF1111"
+white   = "#EDEDED"
+
+
+[colors.selection]
+background = "#32292C"
+text = "#EDEDED"
