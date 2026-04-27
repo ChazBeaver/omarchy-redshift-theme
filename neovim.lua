@@ -1,7 +1,6 @@
 return {
   {
     "ChazBeaver/redshift.nvim",
-    -- dir = "/home/chaz/Projects/home/themes_nvim/redshift.nvim",
     name = "redshift",
     priority = 1000,
     config = function()
