@@ -4,7 +4,6 @@
 # ============================================================
 
 accent = "#6C0000"
-
 cursor = "#6C0000"
 
 foreground = "#EDEDED"
@@ -20,7 +19,7 @@ selection_background = "#32292C"
 
 color0  = "#060606"  # neutral black background
 color1  = "#C31D19"  # brick red / warm error
-color2  = "#4A5C32"  # leafy green
+color2  = "#5A5A5A"  # leafy green #4A5C32
 color3  = "#5A5A5A"  # warm gold / highlight
 color4  = "#6C0000"  # soft sky blue
 color5  = "#6C0000"  # dusty mauve-violet
